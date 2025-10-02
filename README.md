@@ -4,7 +4,7 @@
 
 <!-- Gradient Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:00CFFF&height=200&section=header&text=-Eldin&fontColor=ffffff&fontSize=50&animation=twinkling&fontAlignY=40" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:00CFFF&height=200&section=header&text=Mahmoud%20Abd-Elrazek&fontColor=ffffff&fontSize=50&animation=twinkling&fontAlignY=40" alt="Header"/>
 </p>
 
 <h3 align="center">🚀 AI/ML Engineer | Data Scientist </h3>
