@@ -10,7 +10,6 @@
 <h3 align="center">🚀 AI/ML Engineer | Data Scientist </h3>
 
 <p align="center">
-  <a href="https://www.google.com/search?q=Sayed+Tag-Eldin">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Building%20AI%20Solutions%20for%20Impact;Passionate%20Community%20Leader;Visit%20www.sayedtag.me&font=Fira%20Code&center=true&color=00CFFF&pause=2000">
   </a>
 </p>
